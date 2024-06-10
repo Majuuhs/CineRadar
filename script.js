@@ -34,7 +34,7 @@ function displayMovieDetails(movie) {
             <img src="${movie.Poster}" alt="${movie.Title}" width="200">
         `);
     } else {
-        console.log('Filme não encontrado!! Verifique o título e tente novamente.');
+        displayError('Filme não encontrado!! Verifique o título e tente novamente.');
     }
 }
 
