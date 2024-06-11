@@ -9,3 +9,13 @@ Vocé pode acessaer o deploy aqui: majuuhs.github.io/CineRadar/
 
 <h1>Tecnologias Utilizada 🤖</h1>
 jQuery, Ajax, HTML, CSS
+
+<h1>Aplicações 🎨</h1>
+<h3>Logo:</h3>
+
+![image](https://github.com/Majuuhs/CineRadar/assets/108300329/235fca27-4e99-4da0-a57a-3911d77661d2)
+
+Paleta de cores:
+
+![cineradar](https://github.com/Majuuhs/CineRadar/assets/108300329/d1d60fc2-b873-4b13-a801-387efdf519eb)
+
