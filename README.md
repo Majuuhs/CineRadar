@@ -15,7 +15,7 @@ jQuery, Ajax, HTML, CSS
 
 ![image](https://github.com/Majuuhs/CineRadar/assets/108300329/235fca27-4e99-4da0-a57a-3911d77661d2)
 
-Paleta de cores:
+<h3>Paleta de cores: </h3>
 
 ![cineradar](https://github.com/Majuuhs/CineRadar/assets/108300329/d1d60fc2-b873-4b13-a801-387efdf519eb)
 
